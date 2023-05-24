@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "fullName": "میلاد مصطفایی",
+      "photo": "https://images.unsplash.com/photo-1544348817-5f2cf14b88c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "mobile": "09182848816",
+      "email": "milad.mostafaei4465@gmail.com",
+      "job": "برنامه نویس",
+      "group": "1",
+      "id": 1
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}
